@@ -8,4 +8,7 @@ import "bootstrap/dist/js/bootstrap.js"
 
 import "./css/index.css"
 
-render(<App />, document.getElementById("root"))
+render(
+    <App />, 
+    document.getElementById("root")
+    )
