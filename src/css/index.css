@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.header {
+  font-style: 'italic';
+  color: 'orange';
+}
+
+.book {
+  border: 1px coral ridge;
+  background-color: antiquewhite;
+  color: crimson;
+  font-size: medium;
+  padding: .5vw;
+}
+.book p {
+  padding-left: 1vw;
+}

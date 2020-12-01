@@ -1,0 +1,32 @@
+.user {
+    background-color :snow;
+    padding : 15px;
+    width : 500px;
+    margin : 25px;
+    color: dimgray;
+}
+
+.user label {
+    font-weight: bold;
+}
+
+.heading {
+    margin-left: 25px;
+}
+
+.footer {
+    font-size: x-small;
+    padding: 0px 10px 20px 25px;
+    font-style: italic;
+    color: darkgrey;
+    font-weight: 500;
+}
+
+.userlist {
+    height: 95vw;
+    overflow: scroll;
+}
+
+.link {
+    cursor: pointer;
+}
